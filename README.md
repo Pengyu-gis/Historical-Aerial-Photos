@@ -1,7 +1,7 @@
 
 <div align="center">
 <h2>Rooftop Detection from Historical Aerial Imagery Using Deep Learning in Downtown Charleston, SC</h2>
-<a href='https://pengyu-gis.github.io/' target='_blank'>Pengyu Chen</a><br>
+<a href='https://pengyu-gis.github.io/' target='_blank'>Pengyu Chen</a>, 302, Cuizhen Wang, Sicheng Wang<br>
 Department of Geography, University of South Carolina
 </div>
 
