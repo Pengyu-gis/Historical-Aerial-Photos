@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/88e60929-27a2-407d-bd4d-d329a6752143)
+
+
 - building Detection:
   - [01_building_delineation.ipynb](https://colab.research.google.com/github/GFDRR/caribbean-rooftop-classification/blob/add%2Ftutorials/tutorials/01_building_delineation.ipynb#scrollTo=1904dcc8-63dd-43ed-b768-111e4644663e)
   - [2021-02-17-Building-Detection-SpaceNet7](https://colab.research.google.com/github/JohannesStutz/blog/blob/master/_notebooks/2021-02-17-Building-Detection-SpaceNet7.ipynb)
