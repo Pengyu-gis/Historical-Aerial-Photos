@@ -10,3 +10,6 @@
   - [Image Colorization with U-Net and GAN Tutorial.ipynb](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
   - https://github.com/MarkMoHR/Awesome-Image-Colorization
   - [ImageColorizerColab.ipynb](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
+
+
+![image](https://github.com/user-attachments/assets/4409b43a-489f-45cf-afb2-8d5722c75135)
