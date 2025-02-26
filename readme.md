@@ -12,4 +12,4 @@
   - [ImageColorizerColab.ipynb](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
 
 
-![image](https://github.com/user-attachments/assets/4409b43a-489f-45cf-afb2-8d5722c75135)
+![c6e492b4b54bb6c6f09aff00a3306a4](https://github.com/user-attachments/assets/ab113da2-8a8c-4342-a83c-af3d40521a37)
