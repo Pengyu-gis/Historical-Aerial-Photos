@@ -25,15 +25,13 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 
 ---
 
-## Repository Structure
 
+## Getting Started
 📁 colorization/         → GAN-based colorization of grayscale images
 
 📁 super_resolution/     → Real-ESRGAN-based image upscaling
 
 📁 detection/            → Rooftop detection using YOLOv11n, Faster R-CNN, RT-DETR
-
-## Getting Started
 **Setup Environment (Colab Friendly)**
 - All notebooks are tested in Google Colab.
 - Dependencies are listed in the first few cells of each notebook.
