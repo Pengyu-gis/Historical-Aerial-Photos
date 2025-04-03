@@ -5,6 +5,9 @@
 **Pengyu Chen**, Sicheng Wang*, Cuizhen Wang, Senrong Wang, Beiao Huang, Lu Huang, Zhe Zang  
 
 *University of South Carolina, Wuhan University of Technology, Wuhan University, Ocean University of China*  
+
+---
+
 ![](docs/framework.png)
 </div>
 
@@ -37,14 +40,18 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 - Dependencies are listed in the first few cells of each notebook.
 
 ## Sample results
-### Colorization & Super-resolution result
+
+
 <div align="center">
+  
+**Colorization & Super-resolution result**
   
 ![](docs/upscaled_combined.png)
 </div>
 
-### Detection result
 <div align="center">
+
+  **Detection result**  
   
   <img src="docs/test_results.png" alt="Test Results" width="700"/>
 </div>
