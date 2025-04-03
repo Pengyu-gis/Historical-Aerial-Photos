@@ -46,7 +46,7 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 ### Detection result
 <div align="center">
   
-![](docs/test_results.png)
+  <img src="docs/test_results.png" alt="Test Results" width="500"/>
 </div>
 
 ### 📬 Contact
