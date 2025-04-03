@@ -5,10 +5,8 @@
 **Pengyu Chen**, Sicheng Wang*, Cuizhen Wang, Senrong Wang, Beiao Huang, Lu Huang, Zhe Zang  
 
 *University of South Carolina, Wuhan University of Technology, Wuhan University, Ocean University of China*  
-
+![](docs/framework.png)
 </div>
-
-
 
 ## Abstract
 
@@ -39,3 +37,23 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 **Setup Environment (Colab Friendly)**
 - All notebooks are tested in Google Colab.
 - Dependencies are listed in the first few cells of each notebook.
+
+## Sample results
+### Colorization & Super-resolution result
+<div align="center">
+  
+![](docs/upscaled_combined.png)
+</div>
+
+### Detection result
+<div align="center">
+  
+![](docs/test_results.png)
+</div>
+
+### 📬 Contact
+**For questions or collaborations, feel free to reach out:**
+
+Pengyu Chen: pengyuc@email.sc.edu 
+
+Sicheng Wang: SICHENGW@mailbox.sc.edu
