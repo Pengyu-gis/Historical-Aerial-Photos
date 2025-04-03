@@ -28,8 +28,11 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 ---
 
 ## Repository Structure
+
 📁 colorization/         → GAN-based colorization of grayscale images
+
 📁 super_resolution/     → Real-ESRGAN-based image upscaling
+
 📁 detection/            → Rooftop detection using YOLOv11n, Faster R-CNN, RT-DETR
 
 ## Getting Started
