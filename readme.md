@@ -1,15 +1,38 @@
-![image](https://github.com/user-attachments/assets/88e60929-27a2-407d-bd4d-d329a6752143)
+<div align="center">
+
+## A GAN-Enhanced Deep Learning Framework for Rooftop Detection from Historical Aerial Imagery
+
+**Pengyu Chen**, Sicheng Wang*, Cuizhen Wang, Senrong Wang, Beiao Huang, Lu Huang, Zhe Zang  
+
+*University of South Carolina, Wuhan University of Technology, Wuhan University, Ocean University of China*  
+
+</div>
 
 
-- building Detection:
-  - [01_building_delineation.ipynb](https://colab.research.google.com/github/GFDRR/caribbean-rooftop-classification/blob/add%2Ftutorials/tutorials/01_building_delineation.ipynb#scrollTo=1904dcc8-63dd-43ed-b768-111e4644663e)
-  - [2021-02-17-Building-Detection-SpaceNet7](https://colab.research.google.com/github/JohannesStutz/blog/blob/master/_notebooks/2021-02-17-Building-Detection-SpaceNet7.ipynb)
-  - [Detection of Rooftop using Aerial Images](https://www.kaggle.com/code/slyveinweeb/detection-of-rooftop-using-aerial-images/notebook)
- 
-- Image Colorization:
-  - [Image Colorization with U-Net and GAN Tutorial.ipynb](https://colab.research.google.com/github/moein-shariatnia/Deep-Learning/blob/main/Image%20Colorization%20Tutorial/Image%20Colorization%20with%20U-Net%20and%20GAN%20Tutorial.ipynb)
-  - https://github.com/MarkMoHR/Awesome-Image-Colorization
-  - [ImageColorizerColab.ipynb](https://colab.research.google.com/github/jantic/DeOldify/blob/master/ImageColorizerColab.ipynb)
 
+## Abstract
 
-![c6e492b4b54bb6c6f09aff00a3306a4](https://github.com/user-attachments/assets/ab113da2-8a8c-4342-a83c-af3d40521a37)
+>Precise detection of rooftops from historical aerial imagery is essential for analyzing long-term urban development and human settlement patterns. Nonetheless, black-and-white analog photographs present considerable challenges for modern >object detection frameworks due to their limited spatial resolution, absence of color information, and archival degradation. To address these challenges, this research introduces a two-stage image enhancement pipeline based on Generative >Adversarial Networks (GANs): image colorization utilizing DeOldify, followed by super-resolution enhancement with Real-ESRGAN. The enhanced images were subsequently employed to train and evaluate rooftop detection models, including Faster >R-CNN, DETReg, and YOLOv11n. The results demonstrate that the combination of colorization with super-resolution significantly enhances detection performance, with YOLOv11n achieving a mean Average Precision (mAP) exceeding 85\%. This >signifies an enhancement of approximately 40\% over the original black-and-white images and 20\% over images enhanced solely through colorization. The proposed method effectively bridges the gap between archival imagery and contemporary >deep learning techniques, facilitating more reliable extraction of building footprints from historical aerial photographs.
+
+We propose a two-stage **GAN-based image enhancement pipeline**:
+1. **Image Colorization** (using *GAN--DeOldify*)
+2. **Super-Resolution** (using *Real-ESRGAN*)
+
+These enhanced images are then used for training rooftop detection models including:
+- **YOLOv11n**
+- **Faster R-CNN**
+- **RT-DETR**
+
+Our method improves detection accuracy by up to **40%** over raw historical images and up to **20%** over colorized-only images — with **YOLOv11n achieving mAP > 85%**.
+
+---
+
+## Repository Structure
+📁 colorization/         → GAN-based colorization of grayscale images
+📁 super_resolution/     → Real-ESRGAN-based image upscaling
+📁 detection/            → Rooftop detection using YOLOv11n, Faster R-CNN, RT-DETR
+
+## Getting Started
+**Setup Environment (Colab Friendly)**
+- All notebooks are tested in Google Colab.
+- Dependencies are listed in the first few cells of each notebook.
