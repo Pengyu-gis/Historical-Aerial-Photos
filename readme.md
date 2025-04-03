@@ -56,7 +56,8 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
   <img src="docs/test_results.png" alt="Test Results" width="700"/>
 </div>
 
-### 📬 Contact
+
+### Contact
 **For questions or collaborations, feel free to reach out:**
 
 Pengyu Chen: pengyuc@email.sc.edu 
