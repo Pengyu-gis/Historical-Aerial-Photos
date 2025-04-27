@@ -63,3 +63,15 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 Pengyu Chen: pengyuc@email.sc.edu 
 
 Sicheng Wang: SICHENGW@mailbox.sc.edu
+
+
+### Citation
+```
+@article{chenGANEnhancedDeepLearning2025,
+  title = {A {{GAN-Enhanced Deep Learning Framework}} for {{Rooftop Detection}} from {{Historical Aerial Imagery}}},
+  author = {Chen, Pengyu and Wang, Sicheng and Wang, Cuizhen and Wang, Senrong and Huang, Beiao and Huang, Lu and Zang, Zhe},
+  year = {2025},
+  doi = {10.48550/arXiv.2503.23200},
+  url = {http://arxiv.org/abs/2503.23200},
+}
+```
