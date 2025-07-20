@@ -66,12 +66,18 @@ Sicheng Wang: SICHENGW@mailbox.sc.edu
 
 
 ### Citation
+
 ```
-@article{chenGANEnhancedDeepLearning2025,
-  title = {A {{GAN-Enhanced Deep Learning Framework}} for {{Rooftop Detection}} from {{Historical Aerial Imagery}}},
-  author = {Chen, Pengyu and Wang, Sicheng and Wang, Cuizhen and Wang, Senrong and Huang, Beiao and Huang, Lu and Zang, Zhe},
-  year = {2025},
-  doi = {10.48550/arXiv.2503.23200},
-  url = {http://arxiv.org/abs/2503.23200},
+@article{Chen20072025,
+author = {Pengyu Chen and Sicheng Wang and Cuizhen Wang and Senrong Wang and Beiao Huang and Lu Huang and Zhe Zang},
+title = {A GAN-enhanced deep learning framework for rooftop detection from historical aerial imagery},
+journal = {International Journal of Remote Sensing},
+volume = {0},
+number = {0},
+pages = {1--24},
+year = {2025},
+publisher = {Taylor \& Francis},
+doi = {10.1080/01431161.2025.2534994},
+URL = {https://doi.org/10.1080/01431161.2025.2534994}
 }
 ```
