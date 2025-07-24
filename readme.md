@@ -67,6 +67,9 @@ Sicheng Wang: SICHENGW@mailbox.sc.edu
 
 ### Citation
 
+**Paper link: https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2534994**
+
+
 ```
 @article{Chen20072025,
 author = {Pengyu Chen and Sicheng Wang and Cuizhen Wang and Senrong Wang and Beiao Huang and Lu Huang and Zhe Zang},
