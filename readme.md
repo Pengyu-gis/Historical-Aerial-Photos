@@ -9,7 +9,11 @@
 ---
 
 ![](docs/framework.png)
+
 </div>
+
+*Paper link: https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2534994* <br>
+*Preprint link: https://arxiv.org/abs/2503.23200"*
 
 ## Abstract
 
@@ -66,9 +70,6 @@ Sicheng Wang: SICHENGW@mailbox.sc.edu
 
 
 ### Citation
-
-**Paper link: https://www.tandfonline.com/doi/full/10.1080/01431161.2025.2534994**
-
 
 ```
 @article{Chen20072025,
