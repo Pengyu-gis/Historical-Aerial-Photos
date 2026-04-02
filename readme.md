@@ -64,7 +64,7 @@ Our method improves detection accuracy by up to **40%** over raw historical imag
 ### Contact
 **For questions or collaborations, feel free to reach out:**
 
-Pengyu Chen: pengyuc@email.sc.edu 
+Pengyu Chen: pengyuc@vt.edu 
 
 Sicheng Wang: SICHENGW@mailbox.sc.edu
 
